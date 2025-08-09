@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+body {
+background-image: url("images/imgonline-com-ua-Blur-R5KOOIdRWRuwlbAq.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+ font-family: "Oswald", sans-serif;
+}
+
+.textt {
+position: relative;
+display: flex;
+top: 400px;
+left: 200px;
+font-size: 60px;
+
+
+
+
+
+}
+.yamaha {
+
+color: blue;
+}
+
+.motos {
+display: flex;
+justify-content: space-around;
+
+}
+
